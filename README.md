@@ -1,7 +1,7 @@
-# Offline Tester
-A quick script to turn on/off my wifi interface on my laptop. Used for debugging error catching when offline.
+Please visit https://gitlab.com/o355/offlinetester for the active repository and code.
 
-This script is adapted to work on Ubuntu 16.04 LTS (KDE Neon). 
+## Why did you move to GitLab?
+I do not want to support GitHub after Microsoft acquired GitHub. I do not support publishing my work on a website owned by an extremely anti-user, pro-proprietary and pro-surveillance company.
 
-# Setup
-Download the script, make sure you have appJar installed. Edit the script to change the interface name to your Wi-Fi/Ethernet interface. Launch the script with admin priviledges.
+## Why delete your code?
+I do not want my code published on this site anymore.
